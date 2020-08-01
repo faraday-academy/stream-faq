@@ -15,3 +15,9 @@ I recommend freeCodeCamp.org. You can start learning Python and JavaScript right
 There is nothing wrong with Typescript, but there are complexity and speed tradeoffs with using it. I choose to use regular JS with linting rules and testing unless my team prefers Typescript.
 
 See more thoughts on Typescript [here](https://dev.to/thejaredwilcurt/quotes-about-typescript-2ohf).
+
+## What VS Code theme do I use?
+
+Dark theme: I usually use **Palenight**, right now I'm trying out **Seti Monokai**
+
+Light theme: **Solarized light**
