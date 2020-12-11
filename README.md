@@ -18,6 +18,6 @@ See more thoughts on Typescript [here](https://dev.to/thejaredwilcurt/quotes-abo
 
 ## What VS Code theme do I use?
 
-Dark theme: I usually use **Palenight**, right now I'm trying out **Seti Monokai**
+Dark theme: I usually use **Palenight**, right now I'm trying out **Gruvbox**
 
 Light theme: **Solarized light**
